@@ -1,4 +1,4 @@
-# ML---House-Price-Prediction
+# ML-House-Price-Prediction
 Machine Learning project comparing Linear and Polynomial Regression on housing data.
 
 ---
@@ -91,6 +91,7 @@ git clone https://github.com/<yourusername>/House-Prices-Regression.git
 cd House-Prices-Regression
 pip install -r requirements.txt
 jupyter notebook notebooks/linear_polynomial_regression.ipynb
+```
 
 ---
 

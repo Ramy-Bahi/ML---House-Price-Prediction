@@ -104,7 +104,9 @@ Available on Kaggle: https://www.kaggle.com/c/house-prices-advanced-regression-t
 👨‍💻 Author
 
 **Rami Bahi**
+
 🎓 Master’s Student in Artificial Intelligence
+
 💻 Passionate about Machine Learning, Deep Learning & Web Development
 
 ---

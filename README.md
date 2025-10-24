@@ -87,7 +87,7 @@ House-Prices-Regression/
 ## 🧩 How to Run
 
 ```bash
-git clone https://github.com/<yourusername>/House-Prices-Regression.git
+git clone https://github.com/Ramy-Bahi/House-Prices-Regression.git
 cd House-Prices-Regression
 pip install -r requirements.txt
 jupyter notebook notebooks/linear_polynomial_regression.ipynb
